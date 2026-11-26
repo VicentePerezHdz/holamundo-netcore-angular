@@ -4,6 +4,8 @@
 
 API REST en capas con ASP.NET Core y un frontend en Angular que la consume. Tiene tres funciones: saludo con input de texto, calculadora y combobox con mensaje.
 
+![Captura de la aplicación](docs/img/captura.png)
+
 ## Qué demuestra
 - **Backend:** controladores, servicios e interfaces, inyección de dependencias, validación, errores con `ProblemDetails` (middleware global), CORS, Swagger y cancelación con `CancellationToken`.
 - **Frontend:** componentes standalone, signals, `HttpClient` y un servicio de API tipado.
