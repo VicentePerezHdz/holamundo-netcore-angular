@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HolaMundo.Api/HolaMundo.Api.csproj" />
+  <Project Path="HolaMundo.Tests/HolaMundo.Tests.csproj" />
+</Solution>
